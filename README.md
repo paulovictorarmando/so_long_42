@@ -27,7 +27,7 @@ make clean
 make fclean
 ```
 ### 4. Using:
-´´´
+```
 ./so_long map.ber
-´´´
+```
 ###
