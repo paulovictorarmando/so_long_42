@@ -1,7 +1,7 @@
 # so_long_42
 My so_long project from 42school
 
-###To perform the tests, make sure these packages are installed on your machine:
+### To perform the tests, make sure these packages are installed on your machine:
 ```
 sudo apt update
 sudo apt install libx11-dev
